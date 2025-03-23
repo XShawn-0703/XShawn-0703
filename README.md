@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Nguyễn Lộc Xuân Sang!
 
 I'm a passionate 4th-year student at Hutech University. I enjoy building, learning about, and exploring new technologies.
 
