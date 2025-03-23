@@ -6,7 +6,7 @@ I'm a passionate 4th-year student at Hutech University. I enjoy building, learni
 
 ### 🚀 Skills
 
-*   **Languages:** Basic knowledge of 🐍 Python, ☕ Java
+*   **Languages:** Basic knowledge of 🐍 Python, ☕ Java, JavaScript, Dart
 *   **Frameworks/Libraries:** React, Node.js, Flutter
 *   **Databases:** MongoDB, MySQL
 *   **Tools:** Git, AI, ...
